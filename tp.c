@@ -5,6 +5,6 @@ void main()
     scanf("%d",&n);
     for(i=1;i<=10;i++)
     {
-        printf("%d*%d")
+        printf("\n%d*%d=%d",n,i,n*i);
     }
 }
